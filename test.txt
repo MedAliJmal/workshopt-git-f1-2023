@@ -1,3 +1,20 @@
 how to create a folder ? => mkdir "folder name"
 how to change directory => cd "folder name"
 how to create a file ? => touch "filename.type"
+
+
+git init => initialize local git repository (dossier caché .git)
+
+git add => selects files & add them to the staging area (espace virtuel)
+
+git status => shows you what's happening in the staging area.
+
+git commit -m "" =>  close the staging area and confirms the chosen files.
+
+git log => shows the history of commits.
+
+git Branch .... => defines the branch that you are working on
+
+git remote => defines the remote repository to add files to.
+
+git push => push the files to the remote repository from the local repository.
